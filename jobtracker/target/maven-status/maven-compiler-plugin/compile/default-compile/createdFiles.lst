@@ -1,0 +1,15 @@
+com\jobtracker\dao\UserDAO.class
+com\jobtracker\dao\ApplicationDAO.class
+com\jobtracker\servlet\LogoutServlet.class
+com\jobtracker\servlet\LoginServlet.class
+com\jobtracker\servlet\ApplicationsServlet.class
+com\jobtracker\model\User.class
+com\jobtracker\util\PasswordUtil.class
+com\jobtracker\util\DBConnection.class
+com\jobtracker\model\JobApplication.class
+com\jobtracker\filter\AuthFilter.class
+com\jobtracker\servlet\ApplicationFormServlet.class
+com\jobtracker\servlet\RegisterServlet.class
+com\jobtracker\util\Constants.class
+com\jobtracker\servlet\DashboardServlet.class
+com\jobtracker\dao\DashboardDAO.class
